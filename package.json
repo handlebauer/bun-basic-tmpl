@@ -1,6 +1,6 @@
 {
     "name": "bun-basic-tmpl",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "module": "src/index.ts",
     "type": "module",
     "scripts": {
@@ -10,7 +10,7 @@
         "format": "prettier --write .",
         "clean": "rm -rf dist",
         "build": "bun run clean && bun run lint && bun run format && bun build.ts && echo 'Done'.",
-        "version": "bunx bumpp"
+        "bump": "bunx bumpp"
     },
     "peerDependencies": {
         "typescript": "^5.0.0"
