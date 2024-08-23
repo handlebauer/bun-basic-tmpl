@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="logo.svg" alt="Your Project Logo" width="200">
+  <img src="https://placehold.co/300x200?text=Logo%20Here" alt="Your Project Logo" width="200">
 </p>
 
 ### package_name
